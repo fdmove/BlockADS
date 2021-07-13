@@ -1,2 +1,2 @@
 # BlockADS
-BLOCK ADS with Dnsmasq
+dnsmasq.conf : BLOCK ADS with Dnsmasq
