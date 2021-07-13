@@ -1,5 +1,7 @@
 #!/bin/sh
 # START
+mkdir -p /root/sh /root/backup
+
 v_date=`date '+%Y%m%d'`
 
 DB_USER='root'
